@@ -1,4 +1,4 @@
-# Hello! I'm Victor, pleased to meet ya! I'm currently working as a backend developer 
+# Hello! I'm Victor, pleased to meet ya! I'm currently working as a fullstack developer 
 
 <div align="center">
   <a href="https://github.com/hartungvictor">
