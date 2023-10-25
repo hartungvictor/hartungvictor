@@ -1,7 +1,15 @@
-# Hello! I'm Victor, pleased to meet ya! I'm currently working as a fullstack developer 
+# Hello! I'm Victor
+
+- 🔭 I’m currently working with Laravel, PHP and JS
+- 🌱 I’m currently learning JAVA and RUBY
+- 🤔 I’m looking for help with Spring and Design Patterns
+- 💬 Ask me about: Music and e-sports
+- 📫 How to reach me: victor_hartung@hotmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm producer, composer and multi instrumentalist.
 
 <div align="center">
-  <a href="https://github.com/hartungvictor">
+  <a href="https://github.com/victorhartung">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhartung&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
