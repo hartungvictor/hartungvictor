@@ -1,9 +1,9 @@
 # Hello! I'm Victor
 
-- 🔭 I’m currently working with Laravel, PHP and JS
-- 🌱 I’m currently learning JAVA and RUBY
-- 🤔 I’m looking for help with Spring and Design Patterns
-- 💬 Ask me about: Music and e-sports
+- 🔭 I’m currently working with Laravel, PHP, JS and JAVA
+- 🌱 I’m currently learning JAVA
+- 🤔 I’m looking for help with Design Patterns and Data Structures
+- 💬 Ask me about: Music e-sports, everything!!
 - 📫 How to reach me: victor_hartung@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm producer, composer and multi instrumentalist.
@@ -18,6 +18,7 @@
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 </div>
   
   ##
