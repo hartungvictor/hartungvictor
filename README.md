@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with Laravel, PHP, JS and JAVA
 - 🌱 I’m currently learning JAVA
 - 🤔 I’m looking for help with Design Patterns and Data Structures
-- 💬 Ask me about: Music e-sports, everything!!
+- 💬 Ask me about: Music, e-sports and everything!!
 - 📫 How to reach me: victor_hartung@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm producer, composer and multi instrumentalist.
